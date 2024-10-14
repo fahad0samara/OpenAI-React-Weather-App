@@ -3,7 +3,7 @@
 
 # OpenAI-React Weather App
 
-This project demonstrates how to integrate the OpenAI API into a React-based web application. The app provides an interactive weather experience where users can request weather information for a specific location, receive explanations of weather data in simple language, and even get suggestions on what to wear based on the weather.
+This project demonstrates integrating the OpenAI API into a React-based web application. The app provides an interactive weather experience where users can request weather information for a specific location, receive explanations of weather data in simple language, and even get suggestions on what to wear based on the weather.
 
 ## Features
 
